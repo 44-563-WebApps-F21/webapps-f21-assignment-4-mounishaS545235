@@ -1,0 +1,39 @@
+h5{
+    font-family: Arial - Sans Serif;
+    font-size: 20px;
+    color: black;
+}
+
+p{
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    color: black;
+}
+
+p.stage-direction{
+    
+    font-family: 'Times New Roman';
+    font-size: 18px;
+    color: black;
+    background-color: thistle;
+}
+
+p.stage-direction:hover {
+    background-color:beige;
+    color:blueviolet;
+}
+
+h5.LADY_WINDERMERE{
+    font-family: sans-serif;
+    color:darkblue;
+}
+
+h5.LORD_DARLINGTON{
+    font-family: Helvetica, sans-serif;
+    color:crimson;
+}
+
+h5.PARKER{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgreen;
+}
