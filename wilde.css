@@ -69,3 +69,21 @@ table.table_actors th {
     background-color:darkred;
     color: white;
 }
+
+h5.LADY_WINDERMERE:hover{
+    text-shadow: 2px 3px 4px chocolate;
+    border-style:solid;
+    color:darkslategrey;
+}
+
+h5.LORD_DARLINGTON:hover{
+    text-shadow: 2px 3px 4px cornflowerblue;
+    border-style:double;
+    color:olive;
+}
+
+h5.PARKER:hover{
+    text-shadow: 2px 3px 4px cadetblue;
+    border-style:ridge;
+    color: deeppink;
+}
