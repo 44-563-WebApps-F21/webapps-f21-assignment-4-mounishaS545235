@@ -93,7 +93,6 @@ h5.PARKER:hover{
     width: 100%;
     overflow: auto;
     background-color:silver;
-  
 }
   
 .navigation a {
@@ -101,12 +100,10 @@ h5.PARKER:hover{
     color:black;
     font-size: 20px;
     display:table;
-    padding:8px
+    padding:8px;
 }
   
- 
 .navigation a:hover {  
     background-color:burlywood;
     color:darkred;
 }
-
